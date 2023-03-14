@@ -1,11 +1,7 @@
 # java-assign-13-03
-###1.Create programme for the given pattern:
+1.Create programme for the given pattern:
 
-*****
-*****
-*****
-*****
-*****
+
 ```
 public class pattern
 {
@@ -19,13 +15,10 @@ public class pattern
     }
 }
 ```
+##OUTPUT:
+![image](https://user-images.githubusercontent.com/93427923/224888661-53a389f7-5043-4a0b-8932-a7d0bcb9bc7a.png)
 
-###2.
-*********
- *******
-  *****
-   ***
-    *
+2.
 ```
 public class pattern2
 {
@@ -46,18 +39,10 @@ public class pattern2
     }
 }
 ```
+##OUTPUT:
+![image](https://user-images.githubusercontent.com/93427923/224888796-c5361f3b-6b86-43c9-a60a-70b952d5f353.png)
 
-###3.
-*
-**
-***
-****
-*****
-****
-***
-**
-*
-
+3.
 ```
 public class pattern3
 {
@@ -82,3 +67,6 @@ public class pattern3
     }
 }
 ```
+##OUTPUT:
+![image](https://user-images.githubusercontent.com/93427923/224888971-3a160772-47e9-4160-9488-caad4fcb405e.png)
+
